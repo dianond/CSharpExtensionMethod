@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace CSharpExtensionMethod
+namespace Dianond.CSharpExtensionMethod
 {
     public class CommonEqualityComparer<T, V> : IEqualityComparer<T>
     {

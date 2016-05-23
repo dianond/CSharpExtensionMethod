@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CSharpExtensionMethod
+namespace Dianond.CSharpExtensionMethod
 {
     public static class DistinctExtensions
     {

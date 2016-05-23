@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Linq;
-using CSharpExtensionMethod;
+using Dianond.CSharpExtensionMethod;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace CSharpExtensionMethodUnitTest
